@@ -5,9 +5,12 @@ alert('Hello World!') //Abrir o prompt
 console.log('Hello World!')
 document.write('Hello World!')
 
+console.log('To fazendo um teste para PR');
+
 // Comentario de 1 linha
 /*
 Comentário de várias linhas
 */
 
 // Nota: pra rodar o código copie e cole no console do seu navegador
+
