@@ -5,6 +5,8 @@ alert('Hello World!') //Abrir o prompt
 console.log('Hello World!')
 document.write('Hello World!')
 
+console.log("Teste para abrir um PRzão");
+
 // Comentario de 1 linha
 /*
 Comentário de várias linhas
